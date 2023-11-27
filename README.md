@@ -11,3 +11,23 @@ Objectifs :
 - Configurer le système de conteneurs en fonction d’une utilisation sécuritaire;
 - Vérifier que les éléments installés fonctionnent comme prévu;
 - Configurer des règles de gestions des accès sécuritaires.
+
+# Vérifications demandées
+
+## Vérification de l'installation de Docker et Docker Compose
+![Screenshot versions](img/version.PNG/)<br>
+
+# Section 1 - Étape 2
+
+## Création du réseau
+![Screenshot reseau](img/reseau.PNG/)<br>
+
+## Création conteneur Apache
+![Screenshot apache](img/apache.PNG/)<br>
+
+## Création conteneur MongoDB
+![Screenshot mongo](img/mongo.PNG/)<br>
+
+## Vérification des conteneurs
+![Screenshot verif1](img/verifreseau1.PNG/)<br>
+![Screenshot verif2](img/verifreseau2.PNG/)<br>
