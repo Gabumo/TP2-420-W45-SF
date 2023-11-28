@@ -19,18 +19,20 @@ Objectifs :
 
 # Section 1 - Étape 2
 
-## Création du réseau
+## Commandes de création
+### Création du réseau
 ![Screenshot reseau](img/reseau.PNG/)<br>
 
-## Création conteneur Apache
+### Création conteneur Apache
 ![Screenshot apache](img/apache.PNG/)<br>
 
-## Création conteneur MongoDB
+### Création conteneur MongoDB
 ![Screenshot mongo](img/mongo.PNG/)<br>
 
-## Vérification des conteneurs sur mon_reseau
+## Vérifications
+### Vérification des conteneurs sur mon_reseau
 ![Screenshot verif1](img/verifreseau1.PNG/)<br>
 ![Screenshot verif2](img/verifreseau2.PNG/)<br>
 
-## Journaux apache
+### Journaux apache
 ![Screenshot apache logs](img/logsapache.PNG/)<br>
