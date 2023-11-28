@@ -9,3 +9,10 @@
 ## Vérification demandée
 Capture d'écran démontrant la configuration et le thème changés: <br>
 ![Screenshot drupal Browser Web](../img/drupalWeb.PNG/)<br>
+
+#### Références
+- Site web de dockerhub pour drupal:
+```
+https://hub.docker.com/_/drupal
+```
+- Exercices précédents réalisés dans le cadre du cours
