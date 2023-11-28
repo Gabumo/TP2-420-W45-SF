@@ -28,6 +28,9 @@ Objectifs :
 ## Création conteneur MongoDB
 ![Screenshot mongo](img/mongo.PNG/)<br>
 
-## Vérification des conteneurs
+## Vérification des conteneurs sur mon_reseau
 ![Screenshot verif1](img/verifreseau1.PNG/)<br>
 ![Screenshot verif2](img/verifreseau2.PNG/)<br>
+
+## Journaux apache
+![Screenshot apache logs](img/logsapache.PNG/)<br>
