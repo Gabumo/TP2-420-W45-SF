@@ -8,4 +8,4 @@
 
 ## Vérification demandée
 Capture d'écran démontrant la configuration et le thème changés: <br>
-![Screenshot drupal Browser Web](img/drupalWeb.PNG/)<br>
+![Screenshot drupal Browser Web](../img/drupalWeb.PNG/)<br>
